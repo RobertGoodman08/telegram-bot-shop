@@ -18,7 +18,6 @@ git clone https://github.com/RobertGoodman08/telegram-bot-shop.git
 ``
 
 2. Установите зависимости:
-
 ``
 pip install -r requirements.txt
 `` 
